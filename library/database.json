@@ -1,24 +1,12 @@
 {
-    "Items": {
+    "Books": {
         "IDIMIJ": {
-            "name": "apple",
-            "type": "fruit",
-            "price": 0.33
-        },
-        "YRZLDK": {
-            "name": "carrot",
-            "type": "vegetable",
-            "price": 0.5
-        },
-        "MHVJLK": {
-            "name": "onion",
-            "type": "vegetable",
-            "price": 0.43
+            "name": "Relentless",
+            "author": "Tim Grover"
         },
         "DHONBN": {
-            "name": "onion",
-            "type": "vegetable",
-            "price": 0.43
+            "name": "Sell or Be Sold",
+            "author": "Grant Cardone"
         }
     }
 }

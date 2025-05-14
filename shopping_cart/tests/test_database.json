@@ -1,0 +1,14 @@
+{
+    "Items": {
+        "IFJAYT": {
+            "name": "apple",
+            "type": "fruit",
+            "price": 2.0
+        },
+        "AKUKVG": {
+            "name": "pineapple",
+            "type": "fruit",
+            "price": 2.0
+        }
+    }
+}
